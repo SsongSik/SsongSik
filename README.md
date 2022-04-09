@@ -16,6 +16,7 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
   <!--  CSS --><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
   <!--  JS --><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <!--  PHP --><img src="https://img.shields.io/badge/PHP-181e82?style=flat-square&logo=PHP&logoColor=white"/>
+  <!--  KOTLIN --><img src="https://img.shields.io/badge/KOTLIN-7952B3?style=flat-square&logo=KOTLIN&logoColor=white"/>
   <br>
   <!--  C --><img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=C&logoColor=white"/> 
   <!--  DB --><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
