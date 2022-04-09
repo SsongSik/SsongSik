@@ -28,7 +28,7 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
   <br>
   <!--  Amazon_AWS --><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
   <!--  Postman --><img src="https://img.shields.io/badge/Postman-fc5c34?style=flat-square&logo=Postman&logoColor=white"/>
-  <!--  APACHE --><img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <!--  APACHE --><img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-the-badge&logo=apachetomcat&logoColor=white">
 
 </div>
 <br>
