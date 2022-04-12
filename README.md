@@ -3,6 +3,12 @@
 I’m Seongsik Yoon
 
 MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
+<a href="https://ssongcode.tistory.com/">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ssongcode.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 <div align="center">
   <h1>👀</h1>
