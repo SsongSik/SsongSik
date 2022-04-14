@@ -7,7 +7,7 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
 <br>
 <a href="https://ssongcode.tistory.com/">
 <img
-src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ssongcode.tistory.com/"
+src="http://img.shields.io/badge/-Tistory%20Blog-655ced?style=flat&link=https://ssongcode.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
