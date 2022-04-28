@@ -4,6 +4,8 @@ I’m Seongsik Yoon
 
 MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
 <br>
+U(University)M(MakeUs)C(Challenge) 연합동아리 1기 Server 파트 수료
+<br>
 <br>
 <a href="https://ssongcode.tistory.com/">
 <img
