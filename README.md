@@ -6,6 +6,8 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
 <br>
 <br>
 UMC 연합동아리 1기 Server 파트 수료(2021.10 ~ 2022.02):heavy_exclamation_mark:
+<br>
+<br>
 UMC 연합동아리 2기 Android 파트 진행중(2022.03 ~):heavy_exclamation_mark:
 <br>
 <br>
