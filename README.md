@@ -17,9 +17,6 @@ src="http://img.shields.io/badge/-Tistory%20Blog-655ced?style=flat&link=https://
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<br>
-**Fomagran's blog ...**[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://ssongcode.tistory.com/)](https://ssongcode.tistory.com/)
-
 
 <div align="center">
   <h1>👀</h1>
