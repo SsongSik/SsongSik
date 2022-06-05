@@ -8,11 +8,11 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
 UMC 연합동아리 1기 Server 파트 수료(2021.10 ~ 2022.02):heavy_exclamation_mark:
 <br>
 <br>
+UMC 연합동아리 2기 Android 파트 진행중(2022.03 ~):heavy_exclamation_mark:
+<br>
+<br>
 아이디어 구현 팀원 매칭 서비스 - <A href = "https://play.google.com/store/apps/details?id=com.infra.infraandroid" target = "링크 방법" > 인프라(infra)  </A> 
 (2022.01 ~ 2022.04)
-<br>
-<br>
-UMC 연합동아리 2기 Android 파트 진행중(2022.03 ~):heavy_exclamation_mark:
 <br>
 <br>
 <a href="https://ssongcode.tistory.com/">
