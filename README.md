@@ -3,28 +3,6 @@
 I’m Seongsik Yoon
 
 MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
-<br>
-<br>
-UMC 연합동아리 1기 Server 파트 수료(2021.10 ~ 2022.01):heavy_exclamation_mark:
-<br>
-<br>
-UMC 연합동아리 2기 Android 파트 수료(2022.03 ~ 2022.06):heavy_exclamation_mark:
-<br>
-<br>
-아이디어 구현 팀원 매칭 서비스 - <A href = "https://github.com/INFRAcp/INFRA-Server" target = "링크 방법" > 인프라(infra)  </A> 
-(2022.01 ~ 2022.04) - Backend & Developer :heavy_exclamation_mark: :heavy_exclamation_mark:
-<br>
-<br>
-여행 기록 공유 다이어리 - <A href = "https://github.com/TLOVERcp/tlover-android" target = "링크 방법" > 트러버(tlover)  </A> 
-(2022.03 ~ 2022.06) - Android & Project Manager :heavy_exclamation_mark: :heavy_exclamation_mark:
-<br>
-<br>
-<a href="https://ssongcode.tistory.com/">
-<img
-src="http://img.shields.io/badge/-Tistory%20Blog-655ced?style=flat&link=https://ssongcode.tistory.com/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 <div align="center">
   <h1>👀</h1>
